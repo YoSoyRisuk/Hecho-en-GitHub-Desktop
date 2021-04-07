@@ -1,0 +1,26 @@
+body {
+    background-image: url(cora.jpg);
+    background-size: cover;
+  }
+legend {
+    color: rgb(250, 3, 3);
+    text-align: center;
+  }
+form{
+    text-align: center;
+}
+label{
+    color: rgb(250, 3, 3);
+}
+fieldset{
+    align-self: center;
+    width: 400px;
+    margin: auto;
+}
+p{
+    color: rgb(250, 3, 3);
+}
+b{
+    color: rgb(250, 3, 3);
+    text-align: center;
+}
